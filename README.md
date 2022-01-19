@@ -10,7 +10,7 @@ DevSecOps | DevOps | Automation | Infrastructure as Code | Cybersecurity | Appli
 
 #### Where can you find more about me?
 Outside of the code examples found here, you can find me on other platforms:
-- Akamai Developer YouTube | https://youtube.com/akamaideveloper
+- Akamai Developer YouTube | https://www.youtube.com/c/AkamaiDeveloper
 - My YouTube | https://www.youtube.com/channel/UCyAU3cFYkhMSPZ-N8L-RYZA
 - My Blog | https://blog.securitylevelup.eu/
 - My LinkedIn | https://www.linkedin.com/in/mikeelissen/
