@@ -35,6 +35,8 @@ Every day I work with technologies such as:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=securitylevelup&count_private=true&show_icons=true&theme=radical" alt="githubstats" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=securitylevelup&count_private=true&show_icons=true&theme=radical" alt="austingil" /></p>
+
 <!--
 **securitylevelup/securitylevelup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
