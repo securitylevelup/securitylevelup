@@ -14,7 +14,6 @@ Outside of the code examples found here, you can find me on other platforms:
 - My YouTube | https://www.youtube.com/channel/UCyAU3cFYkhMSPZ-N8L-RYZA
 - My Blog | https://blog.securitylevelup.eu/
 - My LinkedIn | https://www.linkedin.com/in/mikeelissen/
-- My Twitter | https://twitter.com/securitylevelup
 - My GitHub | https://github.com/securitylevelup/
 
 #### What do I do?
