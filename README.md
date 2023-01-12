@@ -11,13 +11,13 @@ DevSecOps | DevOps | Automation | Infrastructure as Code | Cybersecurity | Appli
 #### Where can you find more about me?
 Outside of the code examples found here, you can find me on other platforms:
 - Akamai Developer YouTube | https://www.youtube.com/c/AkamaiDeveloper
-- My YouTube | https://www.youtube.com/channel/UCyAU3cFYkhMSPZ-N8L-RYZA
+- My YouTube | https://www.youtube.com/@securitylevelup
 - My Blog | https://blog.securitylevelup.eu/
 - My LinkedIn | https://www.linkedin.com/in/mikeelissen/
 - My GitHub | https://github.com/securitylevelup/
 
 #### What do I do?
-Currently I work at Akamai and I am responsible for the role of Developer Advocate. In this role, it is my main focus to ensure that our customers, partners, prospects and colleagues have a better experience managing their Akamai solutions as well as integrating Akamai within their DevOps toolchain with the tools Akamai provides. I coined the terms Akamai as Code and Akamai as Data to create better visibility for Akamai Developer. You can find our GitHub here: https://github.com/akamai/
+Currently I work at Akamai and I am responsible for the role of Senior Developer Advocate. In this role, it is my main focus to ensure that our customers, partners, prospects and colleagues have a better experience managing their Akamai solutions as well as integrating Akamai within their DevOps toolchain with the tools Akamai provides. I coined the terms Akamai as Code and Akamai as Data to create better visibility for Akamai Developer. You can find our GitHub here: https://github.com/akamai/
 
 #### How does my tech stack look like?
 Every day I work with technologies such as:
@@ -29,7 +29,3 @@ Every day I work with technologies such as:
 - Git | GitHub 
 - VSCode
 - Tons more as part of the DevSecOps ecosystem...
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=securitylevelup&count_private=true&show_icons=true&theme=radical" alt="githubstats" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=securitylevelup&count_private=true&show_icons=true&theme=radical" alt="austingil" /></p>
